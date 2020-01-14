@@ -1,0 +1,12 @@
+
+util.o
+config.h.orig
+config.h.rej
+drw.c.orig
+drw.o
+dwm
+dwm.c.orig
+dwm.c.rej
+dwm.o
+p.orig
+p.rej
